@@ -1,4 +1,4 @@
-# image-classifier-new
+# image-classifier
 
 Projeto de Classificação de Imagens de Gatos e Cachorros
 Este projeto é uma implementação de um modelo de aprendizado profundo para a classificação de imagens de gatos e cachorros usando TensorFlow e Keras. A arquitetura do modelo é baseada em uma rede neural convolucional (CNN) que é treinada para distinguir entre imagens de gatos e cachorros.
